@@ -1,0 +1,3 @@
+start https://www.youtube.com/watch?v=qrZGfBBlXpk
+start https://github.com/tomitokko/django-chatbot/blob/main/django_chatbot/chatbot/views.py
+start https://platform.openai.com/docs/models/gpt-3-5
